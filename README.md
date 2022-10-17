@@ -1,0 +1,2 @@
+# PHPTravelsCustomerModuleAutomationScript
+PHPTravels Customer Module test cases
